@@ -4,6 +4,11 @@
             "name": "",
             "win32url": "https://github.com/can1357/NoVmp/releases/download/v1.0.6/NoVmp.exe",
             "win64url": ""
+        },
+        {
+            "name": "",
+            "win32url": "https://github.com/x64dbg/x64dbg/releases/download/snapshot/snapshot_2021-02-15_22-35.zip",
+            "win64url": ""
         }
     ]
 }
