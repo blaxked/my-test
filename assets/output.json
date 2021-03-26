@@ -1,0 +1,39 @@
+{
+    "Data": [
+        {
+            "name": "",
+            "win32url": "https://github.com/horsicq/DIE-engine/releases/download/3.01/die_win32_portable_3.01.zip",
+            "win64url": "https://github.com/horsicq/DIE-engine/releases/download/3.01/die_win64_portable_3.01.zip"
+        },
+        {
+            "name": "",
+            "win32url": "https://github.com/VirusTotal/yara/releases/download/v4.1.0-rc2/yara-v4.1.0-rc2-1585-win32.zip",
+            "win64url": "https://github.com/VirusTotal/yara/releases/download/v4.1.0-rc2/yara-v4.1.0-rc2-1585-win64.zip"
+        },
+        {
+            "name": "",
+            "win32url": "https://github.com/VirusTotal/vt-cli/releases/download/0.9.0/Windows32.zip",
+            "win64url": "https://github.com/VirusTotal/vt-cli/releases/download/0.9.0/Windows64.zip"
+        },
+        {
+            "name": "",
+            "win32url": "https://github.com/can1357/NoVmp/releases/download/v1.0.6/NoVmp.exe",
+            "win64url": ""
+        },
+        {
+            "name": "",
+            "win32url": "https://github.com/leandrofroes/manw/releases/download/v2.2/manw32.exe",
+            "win64url": "https://github.com/leandrofroes/manw/releases/download/v2.2/manw64.exe"
+        },
+        {
+            "name": "",
+            "win32url": "https://github.com/gchq/CyberChef/releases/download/v9.28.0/CyberChef_v9.28.0.zip",
+            "win64url": ""
+        },
+        {
+            "name": "",
+            "win32url": "https://github.com/Col-E/Recaf/releases/download/2.18.3/recaf-2.18.3-J8-jar-with-dependencies.jar",
+            "win64url": ""
+        }
+    ]
+}
